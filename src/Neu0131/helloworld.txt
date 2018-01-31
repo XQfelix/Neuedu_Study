@@ -1,0 +1,51 @@
+<div class="main_jiuye">
+                  <img src="./img/teacher_bg.png" alt="#">
+                  <span class="main_ter_span1">EMPLOYMENT COMPANIES</span>
+                  <p class="main_ter_span2">就业名企</p>
+                  <div class="jiuye_main">
+                      <div class="wrap"><img class="image1" src="./img/job1.jpg" alt="" height="260px" width="285px"></div>
+                      <div class="wrap"><img src="./img/job2.jpg" alt="" height="260px" width="285px"></div>
+                      <div class="wrap"><img src="./img/job3.jpg" alt="" height="260px" width="285px"></div>
+                      <div class="wrap"><img src="./img/job4.jpg" alt="" height="260px" width="285px"></div>
+                      <div class="word1">95后月薪14K 刷爆朋友圈</div>
+                      <div class="word2">4个月转行成为月薪过万的程序员</div>
+                      <div class="word3">专科生！请！抬！头！</div>
+                      <div class="word4">同时拿到百度&滴滴offer</div>
+                  </div>
+                  <p class="jiuye_p">20余万优秀人才入职企业</p>
+
+                  <div class="jiuye_main_bottom">
+                      <ul class="jiuye_baner">
+                          <li class="bottom_show"></li>
+                          <li></li>
+                          <li></li>
+                          <li></li>
+                          <li></li>
+                      </ul>
+
+                  </div>
+
+<!---------------------------------EMPLOYMENT COMPANIES end---------------------------->
+<!---------------------------------TRAINING FACILITIES start---------------------------->
+<!--园区环境展示-->
+              <div class="main_envo">
+                  <img src="./img/teacher_bg.png" alt="#">
+                  <span class="main_ter_span1">TRAINING FACILITIES</span>
+                  <p class="main_ter_span2">园区环境</p>
+<!--园区环境选择导航区-->
+              <div class="main_envo_nav">
+                  <ul>
+                      <li><a href="">总部</a></li>
+                      <li><a href="">沈阳</a></li>
+                      <li><a href="">大连</a></li>
+                      <li><a href="">长春</a></li>
+                      <li><a href="">哈尔滨</a></li>
+                      <li><a href="">天津</a></li>
+                      <li><a href="">北京</a></li>
+                      <li><a href="">青岛</a></li>
+                      <li><a href="">南京</a></li>
+                      <li><a href="">广州</a></li>
+                      <li><a href="">成都</a></li>
+                      <li><a href="">重庆</a></li>
+                  </ul>
+                  <hr size="1px" color="grey">
