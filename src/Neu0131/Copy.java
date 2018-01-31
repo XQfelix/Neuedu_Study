@@ -18,5 +18,9 @@ public class Copy {
 		in.close();
 		out.close();
 		System.out.println("文件已经复制");
+		
+		
+		//Add form local
+		System.out.println("Add form local");
 	}
 }
